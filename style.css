@@ -1,0 +1,49 @@
+body {
+    background-color: #e8f5e9; /*definir cor de fundo*/
+    font-family: Arial, sans-serif; /*fonte geral do texto*/
+    color: #333;/*cor geral do texto*/
+    margin: 20px;/*tamanho geral*/
+    padding: 20px; /*defini o espaçamento dos elementos*/
+}
+
+h1 {
+    text-align: center;/*alinhamento do texto*/
+    background-color: green;/* cor do fundo do texto*/
+    color: yellow;/* cor da letra*/
+    padding: 15px;/*espaçamento do texto*/
+    border: 3px solid darkgreen;/*borda do texto*/
+}
+
+h2 {
+    color: green;/* cor da letra*/
+    border-bottom: 2px solid green;/*criar linha ou contorno*/
+    padding-bottom: 5px;/*espaçamento do textoo*/
+}
+
+p {
+    text-align: justify;/*alinhamento do texto*/
+    line-height: 1.6;/*tamanho da linha*/
+}
+
+img {
+    display: block;/*defini como o elemento muda dependendo de como ele abre*/
+    margin: 20px auto;/*espaçamento das outras partes*/
+    width: 400px;/*defini a largura do texto*/
+    height: 300px;/*defeni tamanho do texto*/
+    border: 4px solid green;/*borda do texto*/
+    border-radius: 10px;
+}
+
+ol, ul {
+    background-color: white;/* cor do fundo do texto*/
+    border: 2px solid #cccccc;/*borda do texto*/
+    padding: 20px;/*espaçamento do texto*/
+    margin-bottom: 20px;/* defenir espaçamento entre os elementos*/
+}
+
+li {
+    margin: 8px 0;/*espaçamento das outras partes*/
+}
+a {
+    color: green;/*cor do link*/
+    font-weight: bold;}/*tamanho da fonte*/
